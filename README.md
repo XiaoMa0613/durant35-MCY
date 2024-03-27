@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @durant35-MCY
+- 👋 Hi, I’m @XiaoMa0613
 - 👀 I’m interested in steam, basketball
 - 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to work on embedded software
 - 📫 How to reach me 83376524@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: how to save money!!!
